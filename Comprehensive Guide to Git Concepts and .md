@@ -1,4 +1,4 @@
-Comprehensive Guide to Git Concepts and Commands.. local commit changes..!
+Comprehensive Guide to Git Concepts and Commands.. remote changes..!
 
 Git is a distributed version control system designed to track changes in source code during software development. It allows multiple developers to collaborate, manage project history, and handle complex workflows efficiently. This guide covers all core Git concepts, their relationships, and commands, explaining their purpose, usage scenarios, and why they were invented.
 1. Core Git Concepts
