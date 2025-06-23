@@ -126,6 +126,13 @@ Example: git log --oneline outputs a1b2c3 Update README for quick history.
 git log HEAD..origin/main --> how me all the commits that exist on origin/main but not in my local branch (HEAD)
 git log --> shows all the commits.
 
+# Graph view
+git log --graph --oneline --all
+
+git log origin/master..master --oneline     # Local-only commits
+git log master..origin/master --oneline     # Remote-only commits
+
+
 3.7. git diff
 
 What: Shows differences between commits, the working directory, or the staging area.
