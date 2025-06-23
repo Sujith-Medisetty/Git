@@ -1,4 +1,5 @@
-Comprehensive Guide to Git Concepts and Commands
+Comprehensive Guide to Git Concepts and Commands...! 
+
 Git is a distributed version control system designed to track changes in source code during software development. It allows multiple developers to collaborate, manage project history, and handle complex workflows efficiently. This guide covers all core Git concepts, their relationships, and commands, explaining their purpose, usage scenarios, and why they were invented.
 1. Core Git Concepts
 Git’s data model and functionality revolve around a few fundamental objects and concepts. Understanding these is key to mastering Git.
